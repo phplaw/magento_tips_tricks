@@ -66,3 +66,5 @@ http://www.vipplaza.com/
 http://magento.stackexchange.com/questions/10662/watching-add-to-cart-event-quote-item-id-is-empty
 http://inchoo.net/ecommerce/magento/tracking-magento-add-product-to-cart-action-for-analytic-software-purpose/
 http://magento.stackexchange.com/questions/4318/dynamically-calculated-prices-save-before-add-to-cart
+http://www.magentocommerce.com/boards/viewthread/298696/
+http://markshust.com/2012/08/27/create-checkout_cart_product_add_before-observer-magento
