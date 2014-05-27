@@ -58,4 +58,5 @@ http://jagdeepbanga.com/blog/magento-get-base-url-skin-url-media-url-js-url-stor
 http://docs.nexcess.net/article/changing-magento-base-urls.html
 ### Magento extensions
 http://www.iwdextensions.com/magento-one-step-checkout-module.html
-
+### Sites was built with Magento
+http://www.vipplaza.com/
