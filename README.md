@@ -1,4 +1,4 @@
-Magento Tips and Tricks for Deverlopment
+Magento Development Tips and Tricks
 ===================
 
 All Tips &amp; Tricks about Magento Development
