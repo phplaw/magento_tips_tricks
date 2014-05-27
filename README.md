@@ -3,6 +3,11 @@ magento_tips_tricks
 
 All Tips &amp; Tricks about Magento Development
 
+There’s a setting called “Display demo store notice” in: 
+```
+System -> Configuration -> Design -> HTML Head 
+```
+
 *Change base url im magento*
 ```
 select * from core_config_data where path like '%base%url%';
