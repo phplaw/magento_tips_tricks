@@ -1,4 +1,4 @@
-magento_tips_tricks
+Magento Tips and Tricks for Deverlopment
 ===================
 
 All Tips &amp; Tricks about Magento Development
@@ -72,4 +72,5 @@ http://markshust.com/2012/08/27/create-checkout_cart_product_add_before-observer
 
 ### Configuration Nginx for Magento
 http://www.magentocommerce.com/wiki/1_-_installation_and_configuration/configuring_nginx_for_magento
+http://ashsmith.co/2012/12/creating-a-faster-magento-store-part-one-server-setup/
 
