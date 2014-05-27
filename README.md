@@ -36,3 +36,5 @@ http://info.magento.com/rs/magentocommerce/images/Nirvana_Wiese_ClassyLlama_Fitn
 
 #### Magento Books
 http://www.packtpub.com/magento-1-8-development-cookbook-2e/book
+
+http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing#install-sample
