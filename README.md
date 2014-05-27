@@ -74,4 +74,6 @@ http://markshust.com/2012/08/27/create-checkout_cart_product_add_before-observer
 ### Configuration Nginx for Magento
 http://www.magentocommerce.com/wiki/1_-_installation_and_configuration/configuring_nginx_for_magento
 http://ashsmith.co/2012/12/creating-a-faster-magento-store-part-one-server-setup/
+### Magento System Requirements
+http://www.magentocommerce.com/knowledge-base/entry/how-do-i-know-if-my-server-is-compatible-with-magento
 
