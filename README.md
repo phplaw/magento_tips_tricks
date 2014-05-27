@@ -3,6 +3,11 @@ magento_tips_tricks
 
 All Tips &amp; Tricks about Magento Development
 
+*Change base url im magento*
+```
+select * from core_config_data where path like '%base%url%';
+update core_config_data set value = 'http://domainname/' where path = 'web/unsecure/base_url'; update core_config_data set value = 'http://domainname/' where path = 'web/secure/base_url';
+```
 
 . Open Magento admin panel
 
