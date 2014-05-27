@@ -38,3 +38,6 @@ http://info.magento.com/rs/magentocommerce/images/Nirvana_Wiese_ClassyLlama_Fitn
 http://www.packtpub.com/magento-1-8-development-cookbook-2e/book
 
 http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing#install-sample
+
+http://www.magentocommerce.com/knowledge-base/entry/installing-the-sample-data-for-magento
+
