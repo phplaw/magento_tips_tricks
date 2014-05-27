@@ -48,3 +48,7 @@ http://www.magentocommerce.com/knowledge-base/entry/installing-the-sample-data-f
 
 http://www.magentocommerce.com/wiki/recover/restore_base_url_settings
 http://jagdeepbanga.com/blog/magento-get-base-url-skin-url-media-url-js-url-store-url-and-current-url.html
+
+### Have to read
+http://docs.nexcess.net/article/changing-magento-base-urls.html
+
