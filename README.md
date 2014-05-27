@@ -69,3 +69,7 @@ http://inchoo.net/ecommerce/magento/tracking-magento-add-product-to-cart-action-
 http://magento.stackexchange.com/questions/4318/dynamically-calculated-prices-save-before-add-to-cart
 http://www.magentocommerce.com/boards/viewthread/298696/
 http://markshust.com/2012/08/27/create-checkout_cart_product_add_before-observer-magento
+
+### Configuration Nginx for Magento
+http://www.magentocommerce.com/wiki/1_-_installation_and_configuration/configuring_nginx_for_magento
+
