@@ -41,3 +41,4 @@ http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing#in
 
 http://www.magentocommerce.com/knowledge-base/entry/installing-the-sample-data-for-magento
 
+http://www.magentocommerce.com/wiki/recover/restore_base_url_settings
