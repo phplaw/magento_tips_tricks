@@ -33,3 +33,6 @@ Mage::app()->cleanCache();
 
 #### Magento theme
 http://info.magento.com/rs/magentocommerce/images/Nirvana_Wiese_ClassyLlama_Fitness%20Center_Final.pdf
+
+#### Magento Books
+http://www.packtpub.com/magento-1-8-development-cookbook-2e/book
