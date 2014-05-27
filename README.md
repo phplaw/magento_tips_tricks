@@ -77,3 +77,5 @@ http://ashsmith.co/2012/12/creating-a-faster-magento-store-part-one-server-setup
 ### Magento System Requirements
 http://www.magentocommerce.com/knowledge-base/entry/how-do-i-know-if-my-server-is-compatible-with-magento
 
+### Install Magento on server
+wget http://www.magentocommerce.com/downloads/assets/1.9.0.1/magento-1.9.0.1.tar.gz
