@@ -29,3 +29,7 @@ umask(0);
 Mage::run();
 Mage::app()->cleanCache();
 ```
+
+
+#### Magento theme
+http://info.magento.com/rs/magentocommerce/images/Nirvana_Wiese_ClassyLlama_Fitness%20Center_Final.pdf
