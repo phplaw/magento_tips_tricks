@@ -80,4 +80,6 @@ http://www.magentocommerce.com/knowledge-base/entry/how-do-i-know-if-my-server-i
 ### Install Magento on server
 ```
 wget http://www.magentocommerce.com/downloads/assets/1.9.0.1/magento-1.9.0.1.tar.gz
+tar xvzf magento-1.9.0.1.tar.gz
+mv magento your-directory-name
 ```
