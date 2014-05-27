@@ -15,6 +15,10 @@ All Tips &amp; Tricks about Magento Development
 5. Also click Flush Magento Cache and Flush Cache Storage buttons
 
 ```
+ rm -rf var/* 
+```
+
+```
 clear_cache.php
 ```
 
