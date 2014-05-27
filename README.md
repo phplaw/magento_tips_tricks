@@ -63,6 +63,7 @@ http://www.vipplaza.com/
 
 
 ### Magento events
+http://www.magentocommerce.com/wiki/5_-_modules_and_development/0_-_module_development_in_magento/customizing_magento_using_event-observer_method
 http://www.magentocommerce.com/wiki/5_-_modules_and_development/reference/magento_events
 http://magento.stackexchange.com/questions/10662/watching-add-to-cart-event-quote-item-id-is-empty
 http://inchoo.net/ecommerce/magento/tracking-magento-add-product-to-cart-action-for-analytic-software-purpose/
