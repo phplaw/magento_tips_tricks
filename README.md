@@ -85,6 +85,7 @@ mv magento your-directory-name
 wget http://www.magentocommerce.com/downloads/assets/1.9.0.0/magento-sample-data-1.9.0.0.tar.gz
 # http://www.magentocommerce.com/wiki/1_-_installation_and_configuration/installing_magento_via_shell_ssh
 http://www.magentocommerce.com/index.php/getmagento/ce_patches/PATCH_SUPEE-2629_EE_1.12.0.0_v1.sh
+http://www.magentocommerce.com/knowledge-base/entry/installing-sample-data-archive-for-magento-ce
 ```
 ### Magento installation guide
 http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing
