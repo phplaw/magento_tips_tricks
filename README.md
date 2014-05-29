@@ -82,6 +82,8 @@ http://www.magentocommerce.com/knowledge-base/entry/how-do-i-know-if-my-server-i
 wget http://www.magentocommerce.com/downloads/assets/1.9.0.1/magento-1.9.0.1.tar.gz
 tar xvzf magento-1.9.0.1.tar.gz
 mv magento your-directory-name
+wget http://www.magentocommerce.com/downloads/assets/1.9.0.0/magento-sample-data-1.9.0.0.tar.gz
+
 ```
 ### Magento installation guide
 http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing
