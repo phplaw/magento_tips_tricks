@@ -2,7 +2,15 @@ Magento Development Tips and Tricks
 ===================
 
 All Tips &amp; Tricks about Magento Development
-
+### Magento basic module
+http://www.smashingmagazine.com/2012/03/01/basics-creating-magento-module/
+Basically, to create a simple magento module, you have to create two files.
+```
+app/
+  |- etc/module/{Package}_{ModuleName}.xml
+  |- code/local/{Package}/{ModuleName}/config.xml
+```
+  
 There’s a setting called “Display demo store notice” in: 
 ```
 System -> Configuration -> Design -> HTML Head 
