@@ -10,6 +10,26 @@ app/
   |- etc/module/{Package}_{ModuleName}.xml
   |- code/local/{Package}/{ModuleName}/config.xml
 ```
+```app/etc/module/{Package}_{ModuleName}.xml`` file that will define module version, turn on module by default or not and where you module files will be stored in ```app/code/local|core|community```
+
+example:
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <SmashingMagazine_LogProductUpdate>
+
+            <!-- Whether our module is active: true or false -->
+            <active>true</active>
+
+            <!-- Which code pool to use: core, community or local -->
+            <codePool>local</codePool>
+
+        </SmashingMagazine_LogProductUpdate>
+    </modules>
+</config>
+```
+
   
 There’s a setting called “Display demo store notice” in: 
 ```
