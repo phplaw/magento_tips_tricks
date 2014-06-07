@@ -35,7 +35,32 @@ That file will define module version, turn module on by default or not and give 
 ```
 app/code/(local|core|community)
 ```
-
+```
+app/code/(local|core|community)/{PackageName}/{ModuleName}/etc/config.xml
+```
+example:
+```
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Inchoo_HelloDeveloper>
+            <version>0.1.0</version>
+        </Inchoo_HelloDeveloper>
+    </modules>
+    <frontend>
+        <routers>
+            <Inchoo_HelloDeveloper_SomeFreeRouterName1>
+                <use>standard</use>
+                <args>
+                    <module>Inchoo_HelloDeveloper</module>
+                    <frontName>inchoo-hellodeveloper</frontName>
+                </args>
+            </Inchoo_HelloDeveloper_SomeFreeRouterName1>
+        </routers>
+    </frontend>
+</config>
+```
+That file will define some information like layouts, events, routes etc ... that your module will do.
   
 There’s a setting called “Display demo store notice” in: 
 ```
