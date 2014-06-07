@@ -7,11 +7,11 @@ http://www.smashingmagazine.com/2012/03/01/basics-creating-magento-module/
 Basically, to create a simple magento module, you have to create two files.
 ```
 app/
-  |- etc/module/{Package}_{ModuleName}.xml
-  |- code/local/{Package}/{ModuleName}/config.xml
+  |- etc/module/{PackageName}_{ModuleName}.xml
+  |- code/local/{PackageName}/{ModuleName}/config.xml
 ```
 ```
-app/etc/module/{Package}_{ModuleName}.xml
+app/etc/module/{PackageName}_{ModuleName}.xml
 ```
 example:
 ```
@@ -61,7 +61,8 @@ example:
 </config>
 ```
 That file will define some information like layouts, events, routes etc ... that your module will do.
-  
+
+==================================
 There’s a setting called “Display demo store notice” in: 
 ```
 System -> Configuration -> Design -> HTML Head 
