@@ -13,12 +13,6 @@ app/
 ```
 app/etc/module/{Package}_{ModuleName}.xml
 ```
-
-file that will define module version, turn on module by default or not and where you module files will be stored in
-```
-app/code/local|core|community
-```
-
 example:
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -35,6 +29,11 @@ example:
         </SmashingMagazine_LogProductUpdate>
     </modules>
 </config>
+```
+
+That file will define module version, turn module on by default or not and give a place where module files will be stored in
+```
+app/code/(local|core|community)
 ```
 
   
