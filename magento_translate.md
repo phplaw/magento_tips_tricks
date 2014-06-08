@@ -32,4 +32,7 @@ Then add to your csv file this line:
 Also when adding it to the csv file make sure you double the quotes inside the text so ```<a href="%s"></a>``` should be added to the csv file like ```<a href=""%s""></a>```
 
 If you need to know how to translate in static block, you should read this article:
+
 http://jagdeepbanga.com/blog/magento_how_add_translation_ability_into_cms_page_or_static_block.html
+
+http://www.magentocommerce.com/boards/viewthread/37361/
