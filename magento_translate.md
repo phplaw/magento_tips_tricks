@@ -28,5 +28,5 @@ Then add to your csv file this line:
 ```
 "some <a href=""%s"">text here</a>","translated <a href=""%s"">text here</a>"
 ```
-```%s``` is a placeholder that will be replaced by the second parameter of ```php __``` method.
+```%s``` is a placeholder that will be replaced by the second parameter of ```__``` method.
 Also when adding it to the csv file make sure you double the quotes inside the text so ```<a href="%s"></a>``` should be added to the csv file like ```<a href=""%s""></a>```
