@@ -149,3 +149,8 @@ http://www.magentocommerce.com/knowledge-base/entry/installing-sample-data-archi
 ```
 ### Magento installation guide
 http://www.magentocommerce.com/knowledge-base/entry/ce18-and-ee113-installing
+
+### remove OSX metadata file
+```
+find /Volumes/DATA/www/FreightTracker -name '.DS_Store' -type f -delete
+```
